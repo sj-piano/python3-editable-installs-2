@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='python3-editable-installs-2',
-    version='0.1.0',
+    version='0.1.1',
     description='An example Python package for demonstrating editable installs',
     url='https://github.com/sj-piano/python3-editable-installs-2',
     author='StJohn Piano',
